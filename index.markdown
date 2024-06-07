@@ -1,7 +1,3 @@
----
-layout: home
-title: Home
----
 ## Exploring Data Science Underlying Personalized Healthcare
 Lessons from real world microbiome, wearable, and other multiomic studies of human participants.
 
