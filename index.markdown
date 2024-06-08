@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-permalink: 
+permalink: /home/
 ---
 
 ## Exploring Data Science Underlying Personalized Healthcare
