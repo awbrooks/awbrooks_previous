@@ -7,7 +7,7 @@ url: "https://awbrooks.github.io/"
 github_username:  awbrooks
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
