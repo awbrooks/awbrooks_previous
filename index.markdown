@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Andrew W. Brooks
-permalink:
+title: Home
+permalink: 
 ---
 
 ## Exploring Data Science Underlying Personalized Healthcare
