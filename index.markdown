@@ -7,8 +7,6 @@ permalink:
 ## Exploring Data Science Underlying Personalized Healthcare
 Lessons from real world microbiome, wearable, and other multiomic studies of human participants.
 
-![Andrew W. Brooks](assets/professional_awb.jpeg)
-
 **Research techniques particularly focused on:** 
 * `Respecting and understanding human study participants` (how to run a good study)
 * `Longitudinal health monitoring` (measures over time)
