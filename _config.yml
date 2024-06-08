@@ -1,7 +1,7 @@
 title: Andrew W. Brooks
 email: awbrooks19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Usefull tools developed through years of data science experience.
+  Useful tools developed through years of data science experience.
 baseurl: "" # the subpath base
 url: "https://awbrooks.github.io/" 
 github_username:  awbrooks
