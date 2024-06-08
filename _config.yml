@@ -7,7 +7,7 @@ url: "https://awbrooks.github.io/"
 github_username:  awbrooks
 
 # Build Settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
