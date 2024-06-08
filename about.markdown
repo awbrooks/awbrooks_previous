@@ -9,8 +9,10 @@ permalink: /about/
 
 **Stanford University**: `NIH Postdoctoral Fellow` - longitudinal personalized medicine and microbiomics
   * P.I. Dr. Mike Snyder - Director Stanford Genetics & Stanford B. Ascherman Professor
+
 **Vanderbilt University**: `Ph.D. in Human Genetics` - thesis focused on host genetic influence on the microbiome
   * P.I. Dr. Seth Bordenstein 
+
 **Rensselaer Polytechnic Institute**: `B.S. in Molecular Biology, Bioinformatics, Biochemistry, & Biophysics`
 
  fromin Human Genetics and ; and expanded as a NIH Postdocotoral Fellow for five years researching under Dr. Mike Snyder the Director of Stanford University Genetics Department.
