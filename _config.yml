@@ -6,7 +6,7 @@ baseurl: "" # the subpath base
 url: "https://awbrooks.github.io/" 
 github_username:  awbrooks
 
-# Build settings
+# Build Settings
 theme: minima
 plugins:
   - jekyll-feed
