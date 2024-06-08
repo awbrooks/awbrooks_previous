@@ -7,11 +7,9 @@ url: "https://awbrooks.github.io/"
 github_username:  awbrooks
 
 # Build Settings
-remote_theme: pages-themes/cayman@v0.2.0
-
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
