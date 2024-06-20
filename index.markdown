@@ -33,7 +33,7 @@ Lessons from real world microbiome, wearable, and other multiomic studies of hum
 
 <div class="container">
   <div class="image-container">
-    <img src="path/to/your/image.jpg" alt="Description of Image">
+    <img src="assets/professional_awb.jpeg" alt="Description of Image">
   </div>
   <div class="content-container">
     ## Welcome to My Personal Website
