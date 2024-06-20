@@ -36,6 +36,7 @@ Lessons from real world microbiome, wearable, and other multiomic studies of hum
     <img src="assets/professional_awb.jpeg" alt="Description of Image">
   </div>
   <div class="content-container">
+    
     ## Welcome to My Personal Website
 
     This is where you can introduce yourself, share your interests, and provide links to your projects or social media. Here’s an example of how you might structure your content:
