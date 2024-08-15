@@ -1,0 +1,28 @@
+/* custom.css */
+
+/* Background color */
+body {
+    background-color: #f4f4f4;
+}
+
+/* Header and Navigation */
+.site-header {
+    background-color: #333333; /* Dark background for header */
+    color: #ffffff; /* White text */
+}
+
+/* Links */
+a {
+    color: #007acc; /* Custom link color */
+}
+
+/* Buttons */
+.btn {
+    background-color: #007acc;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #005a99;
+}
+
