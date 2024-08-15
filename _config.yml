@@ -1,7 +1,6 @@
 title: Andrew W. Brooks
 email: awbrooks19@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Useful tools developed through years of data science experience.
+description: "Developing innovative data science tools for analysis, visualization, and automation."
 baseurl: "" # the subpath base
 url: "https://awbrooks.github.io/" 
 github_username:  awbrooks
@@ -10,7 +9,25 @@ github_username:  awbrooks
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+social_links:
+  linkedin: https://www.linkedin.com/in/awbrooks19/
+
+collections:
+  projects:
+    output: true
+  tutorials:
+    output: true
+    
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
