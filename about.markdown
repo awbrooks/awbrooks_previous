@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 ![Andrew W. Brooks](assets/professional_awb.jpeg)
 
 **My Background** - My goal is to provide insights about data science, bioinformatics, human-subject study design, and longitudinal health tracking which I have gained through years of managing all aspects of numerous studies on tens of thousands of people. 
