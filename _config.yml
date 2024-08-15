@@ -5,6 +5,7 @@ baseurl: "" # the subpath base
 url: "https://awbrooks.github.io/" 
 github_username:  awbrooks
 
+
 # Build Settings
 theme: minima
 plugins:
@@ -12,6 +13,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Custom CSS
+include: ['assets/css/custom.css']
+
+# Social Links
 social_links:
   linkedin: https://www.linkedin.com/in/awbrooks19/
 
