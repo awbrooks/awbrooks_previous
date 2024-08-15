@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 permalink:
 ---
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
