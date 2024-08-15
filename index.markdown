@@ -3,6 +3,7 @@ layout: home
 title: Home
 permalink:
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 ## Exploring Data Science Underlying Personalized Healthcare
 Lessons from real world microbiome, wearable, and other multiomic studies of human participants.
